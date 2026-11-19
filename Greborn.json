@@ -12,7 +12,7 @@
 	
     {
       "name": "system-eu/LineageEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageEffect.u"
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageEffect.u"
     },
 	{
       "name": "system-eu/lineageeffect2a.u",
@@ -24,11 +24,15 @@
     },
 	{
       "name": "system-eu/LineageSkillEffect.u",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/LineageSkillEffect.u"
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/LineageSkillEffect.u"
     },
 	{
       "name": "system-eu/Skillgrp_Classic.dat",
       "url": "https://github.com/casper1new1-lgtm/reborn/raw/refs/heads/main/Skillgrp_Classic.dat"
+    },
+	{
+      "name": "system-eu/Skillgrpdat",
+      "url": "https://github.com/casper1new1-lgtm/reborn/raw/refs/heads/main/Skillgrp.dat"
     },
 	{
       "name": "system-eu/L2GameDataName.dat",
@@ -36,7 +40,7 @@
     },
 	{
       "name": "system-eu/user.ini",
-      "url": "https://github.com/casper1new1-lgtm/bohptsx7/raw/refs/heads/main/user.ini"
+      "url": "https://github.com/casper1new1-lgtm/harmony/raw/refs/heads/main/user.ini"
     },
 	{
       "name": "system-eu/Core.dll",
